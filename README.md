@@ -6,7 +6,7 @@ Please see [LICENSE.txt](LICENSE.txt) for usage restrictions based on the CERN O
 
 ## Drivers
 
-* [Basic4](basic4/) - A 4 channel design based on the RichTek RT8741 controller, for up to 1A, in a tiny 1.7x2.2 inch form factor. Optional integrated controller based on a PIC16F to provide local PWM control from analog inputs or as an I2C slave device.
+* [Basic4](basic4/) - A 4 channel design based on the RichTek RT8471 controller, for up to 1A, in a tiny 1.7x2.2 inch form factor. Optional integrated controller based on a PIC16F to provide local PWM control from analog inputs or as an I2C slave device.
 
 ## Boards
 
